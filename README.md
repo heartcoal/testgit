@@ -5,4 +5,5 @@ modify dev branch
 new feature
 doing one feature
 start another feature
-merge new feature!!
+merge new feature!!&&
+add new line
